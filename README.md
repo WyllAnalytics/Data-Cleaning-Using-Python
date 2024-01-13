@@ -4,7 +4,7 @@
 
 Data cleaning is the first step in data analytics and data science. It's like tidying up messy data so it's accurate and useful before you begin analysis. This involves fixing errors, removing duplicates, and making sure everything looks consistent. When data is clean, it's easier to find insights and make good decisions.
 
-![](
+![](Data_Cleaning_Using_Python_and_Pandas.pdf)
 
 
 # Overview
